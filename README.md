@@ -1,7 +1,4 @@
 # PengaduanMasyarakat
-Pembuatan Website Pengaduan Masyarakat.
-
-
 Login!
 
 
