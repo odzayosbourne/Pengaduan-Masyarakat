@@ -1,21 +1,15 @@
 # PengaduanMasyarakat
 Login!
-
-
+```bash
 Admin
-
-username = admin
-
-password = admin
+> username = admin
+> password = admin
 
 Petugas
-
-username = petugas
-
-password = petugas
+> username = petugas
+> password = petugas
 
 Masyarakat
-
-username = masyarakat
-
-password = masyarakat
+> username = masyarakat
+> password = masyarakat
+```
